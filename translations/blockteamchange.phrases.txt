@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"BlockTeam_Chat"
+	{
+	   "#format"	"{1:s}"
+		"pl" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Zmiana teamu została zablokowana {lightgreen}!"
+		"en" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Change of team has been blocked {lightgreen}!"
+		"de" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Der Wechsel des Teams wurde blockiert {lightgreen}!"
+		"fr" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Le changement d'équipe a été bloqué {lightgreen}!"
+		"ru" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Смена команды была заблокирована {lightgreen}!"
+		"cze" 		"{orange}★ {lightred}[{1} -> BlockTeamChange] {darkred} Změna týmu byla zablokována {lightgreen}!"
+	}
+    "BlockTeam_Hint"
+	{
+		"pl" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Zmiana teamu została zablokowana!</font>!"
+		"en" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Change of team has been blocked!</font>!"
+		"de" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Der Wechsel des Teams wurde blockiert!</font>!"
+		"fr" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Le changement d'équipe a été bloqué!</font>!"
+		"ru" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Смена команды была заблокирована!</font>!"
+		"cze" 		"<font color='#ff0000'>[{1} -> BlockTeamChange]\n<font color='#00ff00'>Změna týmu byla zablokována!</font>!"
+    }
+}
