@@ -1,0 +1,1 @@
+# Adept-Block-Team-Change-with-translations
